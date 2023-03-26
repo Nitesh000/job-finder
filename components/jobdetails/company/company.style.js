@@ -22,6 +22,8 @@ const styles = StyleSheet.create({
   },
   jobTitleBox: {
     marginTop: SIZES.small,
+    justifyContent: "center",
+    alignItems: "center",
   },
   jobTitle: {
     fontSize: SIZES.large,
