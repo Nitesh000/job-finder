@@ -5,6 +5,17 @@
       "bundler": "metro"
     },
     "name": "native-jobs",
-    "slug": "native-jobs"
+    "slug": "native-jobs",
+    "extra": {
+      "eas": {
+        "projectId": "54814178-89cd-49d7-843b-3bdd3b9642e4"
+      }
+    },
+    "android": {
+      "package": "com.nitesh000.nativejobs"
+    },
+    "ios": {
+      "bundleIdentifier": "com.nitesh000.nativejobs"
+    }
   }
 }
